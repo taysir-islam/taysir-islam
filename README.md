@@ -6,10 +6,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **game prototypes with Godot & Electron apps**  
-- 🌱 Learning **AI assistants, Making Desktop and Web Apps, and retro emulation**  
+- 🌱 Learning **AI assistants, Making Desktop and Web Apps, and Raspberry PI**  
 - 💡 Passionate about **creative coding, design, and tech experiments**  
 - 📚 ICT Olympiad Bangladesh participant  
-- ⚡ Fun fact: I love customizing keyboards & building DIY gadgets!  
 
 ---
 
