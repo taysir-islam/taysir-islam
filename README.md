@@ -4,15 +4,11 @@
 
 ---
 
-### 😁 About Me
-I like turning strange ideas into code — whether that’s  
-🕹️ building spooky **Godot games**,  
-🖥️ crafting quirky **Electron apps**, or  
-🔧 squeezing fun projects onto a **Raspberry Pi**.  
-
-Along the way, I dive into **AI assistants, web apps, and creative tech**.  
-Also proud to battle it out as an **ICT Olympiad Bangladesh participant**.  
-
+### 😁 About Me 
+- 🔭 I’m currently working on **game prototypes with Godot & Electron apps**
+- 🌱 Learning **AI assistants, Making Desktop and Web Apps, and Raspberry PI**
+- 💡 Passionate about **creative coding, design, and tech experiments**
+- 📚 ICT Olympiad Bangladesh participant
 ---
 
 ### 🛠️ Tech Stack
