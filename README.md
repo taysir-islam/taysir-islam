@@ -28,8 +28,8 @@
 
 
 ---
-### Find me in LinkedIn
-    .......
+### Find me on LinkedIn
+    www.linkedin.com/in/taysir-islam
 ---
 
 ⭐️ From [taysir-islam](https://github.com/taysir-islam)
