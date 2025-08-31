@@ -16,12 +16,15 @@ Also proud to battle it out as an **ICT Olympiad Bangladesh participant**.
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="60" height="60" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="60" height="60" alt="Godot"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60" height="60" alt="JavaScript"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="60" height="60" alt="Electron"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="60" height="60" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" width="60" height="60" alt="Raspberry Pi"/>
+</p>
+
 
 ---
 
