@@ -4,11 +4,14 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **game prototypes with Godot & Electron apps**  
-- 🌱 Learning **AI assistants, Making Desktop and Web Apps, and Raspberry PI**  
-- 💡 Passionate about **creative coding, design, and tech experiments**  
-- 📚 ICT Olympiad Bangladesh participant  
+### 😁 About Me
+I like turning strange ideas into code — whether that’s  
+🕹️ building spooky **Godot games**,  
+🖥️ crafting quirky **Electron apps**, or  
+🔧 squeezing fun projects onto a **Raspberry Pi**.  
+
+Along the way, I dive into **AI assistants, web apps, and creative tech**.  
+Also proud to battle it out as an **ICT Olympiad Bangladesh participant**.  
 
 ---
 
@@ -23,13 +26,15 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taysir-islam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taysir-islam&layout=compact&theme=radical)
 
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taysir-islam&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taysir-islam&layout=compact&theme=radical) |
+| --- | --- |
 
 ---
-### Find me on LinkedIn
-    www.linkedin.com/in/taysir-islam
+
+### 🔗 Find me on LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taysir-islam)
+
 ---
 
 ⭐️ From [taysir-islam](https://github.com/taysir-islam)
