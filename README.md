@@ -31,9 +31,4 @@
 
 ---
 
-### 🔗 Find me on LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taysir-islam)
-
----
-
 ⭐️ From [taysir-islam](https://github.com/taysir-islam)
